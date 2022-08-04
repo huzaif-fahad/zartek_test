@@ -1,0 +1,10 @@
+/.dart_tool
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.idea
+/.metadata
+/analysis_options.yaml
+/pubspec.lock
+/web
+/windows
+/zartek_test.iml
